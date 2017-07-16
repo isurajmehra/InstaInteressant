@@ -1,0 +1,15 @@
+{
+  "name": "de_ph91/insta_interessant",
+  "description": "Find new instagram friends",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Philipp Schreitmueller",
+      "email": "philipp.schreitmueller@in.tum.de"
+    }
+  ],
+  "require": {
+    "cosenary/instagram": "v2.3"
+  }
+}
