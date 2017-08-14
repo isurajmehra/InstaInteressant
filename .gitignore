@@ -88,3 +88,9 @@ fabric.properties
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# Specific Config files
+wp-content/plugins/instainteressant/Config.production.php
+# wp-content/plugins/instainteressant/doc/*
+wp-content/plugins/instainteressant/vendor/*
+composer.phar

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="34fafeef-ff8a-48f2-a43b-4f4d998cace6" name="ph91.de" url="http://ph91.de">
+        <fileTransfer host="whg-server02.de" port="21" rootFolder="/html/blog">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

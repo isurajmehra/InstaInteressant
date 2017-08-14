@@ -1,0 +1,7 @@
+###     Ablauf      ###
+
+-
+
+
+###     TODOS       ###
+    - TODO autoloader https://www.smashingmagazine.com/2015/05/how-to-use-autoloading-and-a-plugin-container-in-wordpress-plugins/
