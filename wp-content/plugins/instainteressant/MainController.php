@@ -8,7 +8,9 @@
 
 namespace de\ph91\InstaInteressant;
 
+require __DIR__ . '/vendor/autoload.php';
 
 class MainController {
+
 
 }

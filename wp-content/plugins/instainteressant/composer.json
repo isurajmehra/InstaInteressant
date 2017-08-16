@@ -1,5 +1,5 @@
 {
-  "name": "de_ph91/insta_interessant",
+  "name": "de/ph91/insta_interessant",
   "description": "Find new instagram friends",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -11,5 +11,8 @@
   ],
   "require": {
     "cosenary/instagram": "v2.3"
+  },
+  "autoload": {
+    "psr-4": {"de\\ph91": "src/"}
   }
 }

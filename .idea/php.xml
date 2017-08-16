@@ -4,25 +4,7 @@
     <include_path>
       <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/composer" />
       <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/cosenary/instagram" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/phpunit/php-file-iterator" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/phpunit/php-timer" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/phpunit/php-text-template" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/phpunit/php-token-stream" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/global-state" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/phpunit/phpunit-mock-objects" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/comparator" />
       <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/phpunit/php-code-coverage" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/theseer/tokenizer" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/environment" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/exporter" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/recursion-context" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/object-enumerator" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/object-reflector" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/resource-operations" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/code-unit-reverse-lookup" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/diff" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/sebastian/version" />
-      <path value="$PROJECT_DIR$/wp-content/plugins/instainteressant/vendor/doctrine/instantiator" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

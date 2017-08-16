@@ -5,3 +5,5 @@
 
 ###     TODOS       ###
     - TODO autoloader https://www.smashingmagazine.com/2015/05/how-to-use-autoloading-and-a-plugin-container-in-wordpress-plugins/
+        -   https://getcomposer.org/doc/04-schema.md#psr-4
+        -   http://www.php-fig.org/psr/psr-4/
